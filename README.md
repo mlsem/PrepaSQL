@@ -1,0 +1,2 @@
+# PrepaSQL
+Prepare your SQL
